@@ -1,0 +1,6 @@
+framework module WriteWorkLib {
+  umbrella header "WriteWorkLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
