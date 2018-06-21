@@ -17,19 +17,19 @@ DEPENDENCIES:
   - Expecta+Snapshots
   - FBSnapshotTestCase
   - Specta
-  - WriteWorkLib (from `../`)
+  - WriteWorkLib (from `../WriteWorkLib.podspec`)
 
 EXTERNAL SOURCES:
   WriteWorkLib:
-    :path: ../
+    :path: ../WriteWorkLib.podspec
 
 SPEC CHECKSUMS:
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   Expecta+Snapshots: dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  WriteWorkLib: 73e3a18b8c4fd2badf2bc890d154a3f43277be38
+  WriteWorkLib: 849fa3ec03d518154532f91a7317f3cd81b8e48e
 
-PODFILE CHECKSUM: 681daa95f15b493c8e4ad2feb4edc6537fd9ab17
+PODFILE CHECKSUM: 579abffe2a3d29c2c8330b66fbbc70ba9130ce17
 
 COCOAPODS: 1.3.1

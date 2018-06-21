@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'WriteWorkLib_Example' do
-  pod 'WriteWorkLib', :path => '../'
+  pod 'WriteWorkLib', :path => '../WriteWorkLib.podspec'
 
   target 'WriteWorkLib_Tests' do
     inherit! :search_paths

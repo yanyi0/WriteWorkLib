@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of WriteWorkLib.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/785144130@qq.com/WriteWorkLib",
+  "homepage": "https://github.com/yanyi0/WriteWorkLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "785144130@qq.com": "785144130@qq.com"
   },
   "source": {
-    "git": "https://github.com/785144130@qq.com/WriteWorkLib.git",
+    "git": "https://github.com/yanyi0/WriteWorkLib.git",
     "tag": "0.1.0"
   },
   "platforms": {
